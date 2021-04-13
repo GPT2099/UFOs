@@ -7,6 +7,7 @@ The image below shows the filters that have been added to our website under the 
 ## Summary
 Drawback:
 - Our website has a very limited dataset of only one year (2010).
+- Beyond shape, our users cannot search for comparable types of sightings. 
  
 Recommendations: 
 - Increase the dataset by including a much wider range of years. (Perhaps 1947!)
